@@ -1,0 +1,43 @@
+.titulo {
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 0, 58);
+    width: fit-content;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    margin: auto;
+    font-size: 22px;
+    color: white;
+    background-color: rgb(18, 8, 54);
+    width: fit-content;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.fondo {
+    background-image: url("../img/Fondo_algoritmos.jpg");
+    background-color: white;
+}
+
+button {
+    border-radius: 8px;
+    background-color: rgb(164, 173, 226);
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
+    width: 200px;
+    height: 55px;
+    margin: 1.5px;
+
+}
+
+button:hover {
+    background-color: rgb(79, 115, 214);
+}
+
+.botones {
+    margin-top: 30px;
+}
